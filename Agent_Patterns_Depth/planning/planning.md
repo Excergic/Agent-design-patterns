@@ -1,3 +1,4 @@
+![Simple Planning Agent Architecture](Simple%20Planning%20Agent%20Architecture@2x.png)
 
 ## Step 1 — The human story
 
